@@ -1,33 +1,43 @@
 <p align="center">
-  <img src="https://uniqo.one/logo.svg" alt="Uniqo" width="120" />
+  <img src="https://uniqo.one/logo.svg" width="110" alt="Uniqo">
 </p>
-
-<h1 align="center">Uniqo</h1>
 
 <p align="center">
   The card that thinks before it pays.
 </p>
 
----
+<br>
 
-Uniqo is building intelligent financial products for people who want total control over how they pay.
+<p align="center">
+  Uniqo is building intelligent financial products<br>
+  designed around one idea.
+</p>
 
-We’re designing a new kind of card experience — smarter, safer, and built around privacy from the start.
+<h3 align="center">Control.</h3>
 
-### What we’re building
+<p align="center">
+  Not another bank. Not another card.<br>
+  A simpler way to manage how money moves.
+</p>
 
-- Intelligent card controls
-- Real-time payment protection
-- Physical and virtual cards
-- Privacy-first financial tools
-- A card-first banking experience
+<br>
 
-### Links
+<p align="center">
+  <a href="https://uniqo.one">
+    <img src="https://uniqo.one/assets/icons/globe.svg" height="18" alt="Website">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/uniqohq">
+    <img src="https://uniqo.one/assets/icons/x.svg" height="19" alt="X">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/uniqohq">
+    <img src="https://uniqo.one/assets/icons/telegram.svg" height="17" alt="Telegram">
+  </a>
+</p>
 
-- Website: https://uniqo.one
-- X: https://x.com/uniqohq
-- Telegram: https://t.me/uniqohq
+<br>
 
----
-
-© 2026 Uniqo. Operated by FrameLabs LLC.
+<p align="center">
+  <sub>© 2026 FrameLabs LLC</sub>
+</p>
